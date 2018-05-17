@@ -1,0 +1,6 @@
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\bin\Debug\Ulamki.exe
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\bin\Debug\Ulamki.pdb
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\obj\Debug\Ulamki.csprojResolveAssemblyReference.cache
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\obj\Debug\Ulamki.csproj.CoreCompileInputs.cache
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\obj\Debug\Ulamki.exe
+C:\Users\precl\RiderProjects\Ulamki\Ulamki\obj\Debug\Ulamki.pdb
